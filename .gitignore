@@ -18,3 +18,8 @@
 
 # Sphinx's builds
 /docs/_build
+
+# Virtualenv's directories
+/bin
+/include
+/lib
